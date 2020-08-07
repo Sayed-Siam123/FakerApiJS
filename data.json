@@ -1,0 +1,53 @@
+{
+    "users":[
+        {
+            "Name": "Abu Sayed",
+            "Age" : "26",
+            "Address": "Gazipur"
+        },
+
+        {
+            "Name": "Faisal",
+            "Age" : "24",
+            "Address": "Uttara"
+        },
+
+        {
+            "Name": "Rehab",
+            "Age" : "26",
+            "Address": "Gazipur"
+        },
+
+        {
+            "Name": "Sabbir",
+            "Age" : "26",
+            "Address": "Mirpur DOHS"
+        }
+    ],
+
+    "extra":[
+        {
+            "Name": "Abu Sayed",
+            "Age" : "26",
+            "Address": "Gazipur"
+        },
+
+        {
+            "Name": "Faisal",
+            "Age" : "24",
+            "Address": "Uttara"
+        },
+
+        {
+            "Name": "Rehab",
+            "Age" : "26",
+            "Address": "Gazipur"
+        },
+
+        {
+            "Name": "Sabbir",
+            "Age" : "26",
+            "Address": "Mirpur DOHS"
+        }
+    ]
+}
