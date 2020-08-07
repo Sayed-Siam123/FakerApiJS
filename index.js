@@ -3,7 +3,7 @@ const faker = require('faker');
 
 const data = { 
     users: [],
-    posts: [], 
+    posts: [],
 }
 // Create 100 users
 for (let i = 1; i <= 50; i++) {
